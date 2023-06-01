@@ -1,4 +1,4 @@
-package kr.hs.emirim.kjminn.layouttest2
+package kr.hs.emirim.syan.layouttest2
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
